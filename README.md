@@ -31,6 +31,8 @@ See [App.tsx](src/App.tsx) for more details.
 
 ## Getting Started
 
+git clone  azteccli to get latest version, don't use its npm
+
 ## Prerequisites
 
 - Install [Node.js](https://nodejs.org/en/download/)
